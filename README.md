@@ -1,2 +1,4 @@
 # Capstone-Project---Introduction-to-Computer-Programming
 The Computer Programming Intro project evaluates my grasp of Python fundamentals, including data types, operators, functions, conditionals, loops, and OOP. I'll showcase my skills in crafting functions and tackling advanced loops from my perspective.
+
+In the Computer Programming Introduction project, I am tasked with demonstrating my comprehension and hands-on application of fundamental programming concepts using Python. This assessment encompasses a range of topics, such as data types, indexing, slicing, operators, built-in functions, statements, conditionals, loops, object-oriented programming, and exception handling. Furthermore, I will be highlighting my ability to create custom functions and address advanced looping concepts, all from my own perspective.
